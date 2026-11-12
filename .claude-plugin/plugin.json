@@ -1,0 +1,29 @@
+{
+  "name": "vibe-code-rescue",
+  "displayName": "Vibe Code Rescue",
+  "version": "0.1.0",
+  "description": "Diagnose and fix apps built with Lovable, Bolt, v0, Cursor or Replit: failed builds and deploys, broken login, Supabase and payment issues, exposed secrets — plus a pre-launch security audit. Safe by default: branch first, no destructive actions without confirmation.",
+  "author": {
+    "name": "xelA31B"
+  },
+  "homepage": "https://github.com/xelA31B/vibe-code-rescue",
+  "repository": "https://github.com/xelA31B/vibe-code-rescue",
+  "documentationUrl": "https://github.com/xelA31B/vibe-code-rescue#readme",
+  "supportUrl": "https://github.com/xelA31B/vibe-code-rescue/issues",
+  "privacyPolicyUrl": "https://github.com/xelA31B/vibe-code-rescue/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/xelA31B/vibe-code-rescue/blob/main/TERMS.md",
+  "license": "MIT",
+  "keywords": [
+    "vibe-coding",
+    "lovable",
+    "bolt",
+    "v0",
+    "cursor",
+    "supabase",
+    "vercel",
+    "debugging",
+    "security-audit",
+    "launch-checklist"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}
