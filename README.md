@@ -2,6 +2,17 @@
 
 Your app was built with AI and now it's broken, or you're not sure it's safe to launch. Doctor FixCode finds the cause, fixes it with the smallest safe change and proves it works.
 
+## Install
+
+**Claude app (web, desktop):** Plugins → add a marketplace from a GitHub repository → `xelA31B/vibe-code-rescue` → install **Doctor FixCode**. Once approved in the Claude directory, search for **Doctor FixCode** in Plugins.
+
+**Claude Code (VS Code or terminal):**
+
+```
+/plugin marketplace add xelA31B/vibe-code-rescue
+/plugin install doctor-fixcode@doctor-fixcode
+```
+
 ## Skills
 
 | Skill | What you get |

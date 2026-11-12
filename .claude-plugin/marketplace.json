@@ -1,0 +1,14 @@
+{
+  "name": "doctor-fixcode",
+  "owner": {
+    "name": "xelA31B"
+  },
+  "description": "Single-plugin marketplace by xelA31B: Diagnose and fix apps built with Lovable, Bolt, v0, Cursor or Replit: failed builds and deploys, broken login, Supabase and payment issues, exposed secrets — plus a pre-launch security audit. Safe by default: branch first, no destructive actions without confirmation.",
+  "plugins": [
+    {
+      "name": "doctor-fixcode",
+      "source": "./",
+      "description": "Diagnose and fix apps built with Lovable, Bolt, v0, Cursor or Replit: failed builds and deploys, broken login, Supabase and payment issues, exposed secrets — plus a pre-launch security audit. Safe by default: branch first, no destructive actions without confirmation."
+    }
+  ]
+}
