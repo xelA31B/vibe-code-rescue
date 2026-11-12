@@ -1,4 +1,4 @@
-# Privacy Policy — AI App Doctor
+# Privacy Policy — Doctor FixCode
 
 _Last updated: 12 November 2026_
 

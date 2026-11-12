@@ -1,4 +1,4 @@
-# Terms of Use — AI App Doctor
+# Terms of Use — Doctor FixCode
 
 _Last updated: 12 November 2026_
 

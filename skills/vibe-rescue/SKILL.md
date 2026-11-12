@@ -11,7 +11,7 @@ metadata:
   version: "0.1.0"
 ---
 
-# AI App Doctor — diagnose and fix
+# Doctor FixCode — diagnose and fix
 
 Find the root cause of a bug in an AI-built app, fix it with the smallest safe change, and prove the fix works.
 
