@@ -1,7 +1,7 @@
 {
-  "name": "vibe-code-rescue",
-  "displayName": "Vibe Code Rescue",
-  "version": "0.1.0",
+  "name": "ai-app-doctor",
+  "displayName": "AI App Doctor",
+  "version": "0.1.1",
   "description": "Diagnose and fix apps built with Lovable, Bolt, v0, Cursor or Replit: failed builds and deploys, broken login, Supabase and payment issues, exposed secrets — plus a pre-launch security audit. Safe by default: branch first, no destructive actions without confirmation.",
   "author": {
     "name": "xelA31B"

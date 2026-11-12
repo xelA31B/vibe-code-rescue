@@ -1,6 +1,6 @@
-# Vibe Code Rescue — Claude plugin
+# AI App Doctor — Claude plugin
 
-Your app was built with AI and now it's broken, or you're not sure it's safe to launch. Vibe Code Rescue finds the cause, fixes it with the smallest safe change and proves it works.
+Your app was built with AI and now it's broken, or you're not sure it's safe to launch. AI App Doctor finds the cause, fixes it with the smallest safe change and proves it works.
 
 ## Skills
 

@@ -1,4 +1,4 @@
-# Terms of Use — Vibe Code Rescue
+# Terms of Use — AI App Doctor
 
 _Last updated: 12 November 2026_
 

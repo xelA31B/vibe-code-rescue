@@ -1,4 +1,4 @@
-# Privacy Policy — Vibe Code Rescue
+# Privacy Policy — AI App Doctor
 
 _Last updated: 12 November 2026_
 
