@@ -20,6 +20,15 @@ Your app was built with AI and now it's broken, or you're not sure it's safe to 
 | **vibe-rescue** | Diagnose and fix: failed builds and deploys (Vercel, Netlify, Lovable, Replit), missing env vars, broken imports, Supabase and auth errors, payment webhooks. Plain-language report with cause, fix and next steps. |
 | **launch-check** | Read-only pre-launch audit: exposed secrets, open databases, auth and payment gaps, reliability and performance. Verdict 🟢/🟡/🔴 and a prioritized fix list. |
 
+## Commands
+
+Type `/` in Claude and pick a command:
+
+| Command | What it does |
+|---|---|
+| `/app-launch-check [project or URL]` | Pre-launch security and health audit of an app |
+| `/fix-app [what is broken]` | Diagnose and fix a broken AI-built app |
+
 ## How to use
 
 Works best in Claude Code (VS Code or terminal) with the project open. In the Claude app, connect the GitHub repository or paste error logs.
