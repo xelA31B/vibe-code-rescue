@@ -66,3 +66,8 @@ For developers: evidence (file:line, setting, command output), max 1 line per is
 Verdict rule: 🔴 if any secret is exposed, data is publicly writable or payments can be bypassed; 🟡 if any other critical item exists; otherwise 🟢.
 
 Close with one line offering to fix the critical items now with `vibe-rescue`, one at a time, on a separate branch.
+
+## Recurring run
+
+Recommend a cadence at the end of the report: before every release, and monthly for apps that are already live.
+If the environment offers scheduled tasks (a scheduling tool is available), offer in one line to set one up, e.g. "every Monday at 09:00". Create it only after the user agrees and confirms day and time. Write the scheduled prompt so it is self-contained: what to check (project, repository or company), which skill to run, and where to deliver the result. If no scheduling tool is available, state the recommended cadence and suggest a calendar reminder.
