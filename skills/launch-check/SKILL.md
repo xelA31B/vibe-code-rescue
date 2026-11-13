@@ -67,6 +67,10 @@ Verdict rule: 🔴 if any secret is exposed, data is publicly writable or paymen
 
 Close with one line offering to fix the critical items now with `vibe-rescue`, one at a time, on a separate branch.
 
+## Branded report
+
+If the environment can render HTML artifacts or files, deliver the full report using `references/report-template.html` (fill the placeholders, keep the design and colours; use the score ring for the main score and status chips for pass / warn / fail / not checked). Otherwise use the markdown format above. Keep the chat reply to a short summary either way.
+
 ## Recurring run
 
 At the end of the report, offer a recurring run. Recommended cadence: before every release, and monthly for apps that are already live.

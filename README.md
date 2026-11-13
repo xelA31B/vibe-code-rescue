@@ -44,6 +44,10 @@ Works best in Claude Code (VS Code or terminal) with the project open. In the Cl
 - No deletions, migrations, force-push, key rotation or deploys without your explicit confirmation
 - Never prints full secrets
 
+## Reports
+
+Concise reports in the language of your request, delivered as a branded HTML report where supported.
+
 ## License
 
 MIT
