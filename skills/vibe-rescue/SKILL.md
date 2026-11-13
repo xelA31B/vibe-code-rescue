@@ -79,3 +79,7 @@ For developers: files changed, commands run, error before/after (short)
 ```
 
 If escalating, write a **developer brief** instead: symptom, evidence collected, likely cause, what was ruled out, access needed, suggested fix — so any developer can pick it up in minutes.
+
+## Branded report
+
+If the environment can render HTML artifacts or files, deliver the full report using `references/report-template.md` (fill the placeholders, keep the design and colours; use the score ring for the main score and status chips for pass / warn / fail / not checked). Otherwise use the markdown format above. Keep the chat reply to a short summary either way.
